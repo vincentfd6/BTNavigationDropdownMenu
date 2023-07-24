@@ -22,7 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AA07A5972182FC7000C097DD /* BTNavigationDropdownMenu.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BTNavigationDropdownMenu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA07A5972182FC7000C097DD /* BTNavigationDropdownMenuXC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BTNavigationDropdownMenuXC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA8E37CE21830B69009609E6 /* Demo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Demo.png; sourceTree = "<group>"; };
 		AA8E37CF21830B69009609E6 /* BTNavigationDropdownLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BTNavigationDropdownLogo.png; sourceTree = "<group>"; };
 		AA8E37D021830B69009609E6 /* Demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Demo.gif; sourceTree = "<group>"; };
@@ -61,7 +61,7 @@
 		AA07A5982182FC7000C097DD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AA07A5972182FC7000C097DD /* BTNavigationDropdownMenu.framework */,
+				AA07A5972182FC7000C097DD /* BTNavigationDropdownMenuXC.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -122,9 +122,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		AA07A5962182FC7000C097DD /* BTNavigationDropdownMenu */ = {
+		AA07A5962182FC7000C097DD /* BTNavigationDropdownMenuXC */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AA07A59F2182FC7000C097DD /* Build configuration list for PBXNativeTarget "BTNavigationDropdownMenu" */;
+			buildConfigurationList = AA07A59F2182FC7000C097DD /* Build configuration list for PBXNativeTarget "BTNavigationDropdownMenuXC" */;
 			buildPhases = (
 				AA07A5922182FC7000C097DD /* Headers */,
 				AA07A5932182FC7000C097DD /* Sources */,
@@ -135,9 +135,9 @@
 			);
 			dependencies = (
 			);
-			name = BTNavigationDropdownMenu;
+			name = BTNavigationDropdownMenuXC;
 			productName = BTNavigationDropdownMenu;
-			productReference = AA07A5972182FC7000C097DD /* BTNavigationDropdownMenu.framework */;
+			productReference = AA07A5972182FC7000C097DD /* BTNavigationDropdownMenuXC.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -166,7 +166,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AA07A5962182FC7000C097DD /* BTNavigationDropdownMenu */,
+				AA07A5962182FC7000C097DD /* BTNavigationDropdownMenuXC */,
 			);
 		};
 /* End PBXProject section */
@@ -388,7 +388,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AA07A59F2182FC7000C097DD /* Build configuration list for PBXNativeTarget "BTNavigationDropdownMenu" */ = {
+		AA07A59F2182FC7000C097DD /* Build configuration list for PBXNativeTarget "BTNavigationDropdownMenuXC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AA07A5A02182FC7000C097DD /* Debug */,

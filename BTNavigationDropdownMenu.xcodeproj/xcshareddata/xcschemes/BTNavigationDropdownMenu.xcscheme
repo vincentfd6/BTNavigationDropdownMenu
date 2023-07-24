@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "AA07A5962182FC7000C097DD"
-               BuildableName = "BTNavigationDropdownMenu.framework"
-               BlueprintName = "BTNavigationDropdownMenu"
+               BuildableName = "BTNavigationDropdownMenuXC.framework"
+               BlueprintName = "BTNavigationDropdownMenuXC"
                ReferencedContainer = "container:BTNavigationDropdownMenu.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -46,13 +44,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AA07A5962182FC7000C097DD"
-            BuildableName = "BTNavigationDropdownMenu.framework"
-            BlueprintName = "BTNavigationDropdownMenu"
+            BuildableName = "BTNavigationDropdownMenuXC.framework"
+            BlueprintName = "BTNavigationDropdownMenuXC"
             ReferencedContainer = "container:BTNavigationDropdownMenu.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -64,8 +60,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AA07A5962182FC7000C097DD"
-            BuildableName = "BTNavigationDropdownMenu.framework"
-            BlueprintName = "BTNavigationDropdownMenu"
+            BuildableName = "BTNavigationDropdownMenuXC.framework"
+            BlueprintName = "BTNavigationDropdownMenuXC"
             ReferencedContainer = "container:BTNavigationDropdownMenu.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
