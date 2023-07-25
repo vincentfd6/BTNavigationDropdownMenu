@@ -2,15 +2,15 @@
 import PackageDescription
 
 let package = Package(
-    name: "BTNavigationDropdownMenuXC",
+    name: "BTNavigationDropdownMenu",
     products: [
-        .library(name: "BTNavigationDropdownMenuXC", targets: ["BTNavigationDropdownMenuXC"]),
+        .library(name: "BTNavigationDropdownMenu", targets: ["BTNavigationDropdownMenu"]),
     ],
     dependencies: [
     ],
     targets: [
         .target(
-            name: "BTNavigationDropdownMenuXC",
+            name: "BTNavigationDropdownMenu",
             dependencies: [],
             path: "Sources",
             exclude: ["Info.plist"],
