@@ -15,12 +15,7 @@ let package = Package(
             path: "Sources",
             exclude: ["Info.plist"],
             resources: [
-                .process("BTNavigationDropdownMenu.bundle/checkmark_icon.png"),
-                .process("BTNavigationDropdownMenu.bundle/arrow_down_icon@2x.png"),
-                .process("BTNavigationDropdownMenu.bundle/arrow_down_icon.png"),
-                .process("BTNavigationDropdownMenu.bundle/checkmark_icon@2x.png"),
-                .process("BTNavigationDropdownMenu.bundle/arrow_down_icon@3x.png"),
-                .process("BTNavigationDropdownMenu.bundle/checkmark_icon@3x.png")
+                .process("Resources")
             ]
         )
     ]
